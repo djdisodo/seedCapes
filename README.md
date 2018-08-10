@@ -1,2 +1,0 @@
-# seedCapes
-seed server capes
